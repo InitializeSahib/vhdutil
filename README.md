@@ -9,4 +9,4 @@ Clone the repository using `git` or download the tarball / zip, and then run `su
 **NOTE**: There has been no verification of this script's compatibility with BSD, macOS, and Windows 10's Linux subsystem.
 
 ## How do I use the utility?
-`vhduytil help` will give you a list of possible commands.
+`vhdutil help` will give you a list of possible commands.
